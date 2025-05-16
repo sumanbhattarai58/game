@@ -1,6 +1,6 @@
-authors,publications,daily_read,percentage,efficiency
-0,ram,a,12,98,74
-1,shyam,b,14,99,76
-2,hari,c,10,96,72
-3,gita,d,10,97,73
-4,sita,e,8,95,70
+authors,publications,daily_read,percentage,efficiency,family_income
+0,ram,a,12,98,74,2
+1,shyam,b,14,99,76,26
+2,hari,c,10,96,72,200
+3,gita,d,10,97,73,1000
+4,sita,e,8,95,70,70
